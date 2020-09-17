@@ -1,1 +1,2 @@
 hoge
+GO GO kazuki!
